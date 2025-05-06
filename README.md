@@ -1,4 +1,4 @@
-# Laravel 10 + SB Admin 2
+# Laravel 10 + SB Admin 2 + Algoritma Genetika
 
 SB Admin 2 for Laravel 10.
 
